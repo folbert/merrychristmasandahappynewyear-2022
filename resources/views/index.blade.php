@@ -20,7 +20,7 @@
                 <p>The sentence above is made up of a total of {{ $sentence->get_nr_of_filled_cells() }} emojis whose type and color is randomized on every page load. Each letter is built by a grid system in HTML and CSS which, in turn, is based on text files like <a href="static-assets/grid-templates/m.txt">M</a> and <a href="static-assets/grid-templates/s.txt">S</a>.</p>
 
                 <h2>Where is the Strava art that used to be here?</h2>
-                <p>You can find it at <a href="https://2021.merrychristmasandahappynewyear.com/">2021.merrychristmasandahappynewyear.com/</a></p>
+                <p>You can find it at <a href="https://2021.merrychristmasandahappynewyear.com/">2021.merrychristmasandahappynewyear.com</a></p>
 
                 <h2>Who made this?</h2>
 
