@@ -150,14 +150,47 @@ h2 {
     font-size: var(--font-size);
 }
 
-.cell--emoji-1::before {
-    content: '🎅';
+.cell--emoji-1-1::before {
+    content: '🎅🏿';
 }
 
-.cell--emoji-2::before {
-    content: '🤶';
+.cell--emoji-1-2::before {
+    content: '🎅🏾';
 }
 
+.cell--emoji-1-3::before {
+    content: '🎅🏽';
+}
+
+.cell--emoji-1-4::before {
+    content: '🎅🏼';
+}
+
+.cell--emoji-1-5::before {
+    content: '🎅🏻';
+}
+
+.cell--emoji-2-1::before {
+    content: '🤶🏿';
+}
+
+.cell--emoji-2-2::before {
+    content: '🤶🏾';
+}
+
+.cell--emoji-2-3::before {
+    content: '🤶🏽';
+}
+
+.cell--emoji-2-4::before {
+    content: '🤶🏼';
+}
+
+.cell--emoji-2-5::before {
+    content: '🤶🏻';
+}
+
+/*
 .cell--emoji-shade-1::after {
     content: "🏿";
 }
@@ -177,6 +210,7 @@ h2 {
 .cell--emoji-shade-5::after {
     content: "🏻";
 }
+*/
 
 .info {
     background: rgb(195, 15, 22);
