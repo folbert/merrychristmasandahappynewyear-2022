@@ -212,14 +212,4 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
     ])->toArray(),
 
-    'character_width_calc_ratios' => [
-        'merry' => 74,
-        'christmas' => 120,
-        'and' => 74,
-        'a' => 80,
-        'happy' => 80,
-        'new' => 120,
-        'year' => 120,
-    ],
-
 ];
