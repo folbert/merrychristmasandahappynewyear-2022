@@ -17,7 +17,7 @@
     <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Merry Christmas And A Happy New Year!">
-    <meta property="og:description" content="Maybe Christmas (he thought) doesn’t come from a store. Maybe Christmas perhaps means a little bit more.">
+    <meta property="og:description" content="So this is Christmas. And what have I done? How about a text file-parser that outputs letters that are made out of emojis?">
     <meta property="og:url" content="https://merrychristmasandahappynewyear.com">
     <meta property="og:type" content="website">
 
