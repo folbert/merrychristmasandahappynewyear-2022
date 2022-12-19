@@ -6,7 +6,4 @@
     @endforeach
 
 </div>
-
-@if($word_object->get_content() === 'happy')
-    <span></span>
-@endif
+<span></span>
